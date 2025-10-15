@@ -96,7 +96,6 @@ and analyzing web traffic logs for our network monitoring project.
 
 | Name | GitHub | Role |
 |------|---------|------|
-
 | **Avinash. M** | [@avinash](https://github.com/avinash) | Documentation, Project Coordination |
 | **Vivek Reddy** | [@vivekreddy9036](https://github.com/vivekreddy9036) | Server Setup, SSL Integration, Nginx Configuration, DNS Configuration|
 | **Teja** | — | Testing, Debugging, and Demo Video Production |
