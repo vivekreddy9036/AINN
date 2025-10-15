@@ -83,16 +83,16 @@ https://your_domain_name → Loads main simulation page
 /404, /500, /403, /400, /502 → Return correct HTTP codes
 ```
 
-🎬 Demo Video
+## 🎬 Demo Video
 
 🎥 Click Here to Watch the Setup & Working Demo
 
-📘 Summary
+## 📘 Summary
 
 A complete subdomain testing environment for simulating HTTP response codes, validating HTTPS security,
 and analyzing web traffic logs for our network monitoring project.
 
-👨‍💻 Contributors
+## 👨‍💻 Contributors
 
 | Name | GitHub | Role |
 |------|---------|------|
